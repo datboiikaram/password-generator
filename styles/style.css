@@ -85,6 +85,7 @@ h6 {
   gap: 30px;
   background-color: beige;
   overflow: hidden;
+  font-family: "poppins";
 }
 
 .fieldset {
@@ -183,6 +184,7 @@ h6 {
   background-color: white;
   padding-left: 10px;
   transform: translateX(-100%);
+  font-weight: bold;
   animation: slide 0.2s linear forwards;
 }
 
